@@ -39,3 +39,24 @@ As Kanye West said:
 
 si queres hacer un bucle deberas usar la palbara clave
 `do While {` y al final del bucle terminar con `}`.
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+You can also simply indent your code by four spaces:
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+Here’s an example of Python code without syntax highlighting:
+
+def foo():
+    if not bar:
+        return True
