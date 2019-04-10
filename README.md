@@ -36,3 +36,6 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+si queres hacer un bucle deberas usar la palbara clave
+`do While {` y al final del bucle terminar con `}`.
