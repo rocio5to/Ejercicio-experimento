@@ -24,7 +24,7 @@
    1. Item 3a
    1. Item 3b
 
-![GitHub perro](/images/perro.jpg)
+![Perrito](perro.jpg)
 Format: ![Alt Text](url)
 
 
