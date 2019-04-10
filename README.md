@@ -24,8 +24,7 @@
    1. Item 3a
    1. Item 3b
 
-
-![GitHub perroges/logo.png)
+![GitHub perro](/images/perro.png)
 Format: ![Alt Text](url)
 
 
